@@ -1,10 +1,9 @@
-import Image from 'next/image'
-import styles from './page.module.css'
-
+"use client"
+import HomePage from '@/page/homepage/HomePage'
 export default function Home() {
-  return (
-    <main className={styles.main}>
-     <h1>Main Page</h1>
+  return ( 
+    <main>
+     <HomePage/>
     </main>
-  )
+  );
 }

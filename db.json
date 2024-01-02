@@ -1,0 +1,96 @@
+{
+  "signUp": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "password": "",
+      "phonenumber": ""
+    },
+    {
+      "name": "Sanjay",
+      "email": "justinbieber123@gmail.com",
+      "password": "Justin12@",
+      "phoneNumber": "6380804401",
+      "checkbox": false,
+      "id": 2
+    },
+    {
+      "email": "justinbieber123@gmail.com",
+      "password": "Justin12@",
+      "id": 3
+    },
+    {
+      "name": "Justin Bieber",
+      "email": "justinbieber123@gmail.com",
+      "password": "Justin12@",
+      "phoneNumber": "6380804401",
+      "checkbox": false,
+      "id": 4
+    },
+    {
+      "name": "Justin Bieber",
+      "email": "justinbieber123@gmail.com",
+      "password": "Justin12@",
+      "phoneNumber": "6380804401",
+      "checkbox": false,
+      "id": 5
+    }
+  ],
+  "customer": [
+    {
+      "fname": "Hari",
+      "lname": "Prabhu",
+      "email": "create23@gmail.com",
+      "companyName": "TCS",
+      "phoneNumber": "6370703300",
+      "status": true,
+      "id": 1
+    },
+    {
+      "fname": "Alex",
+      "lname": "lee",
+      "email": "alexvarma@gmail.com",
+      "companyName": "GenPixels",
+      "phoneNumber": "6340040089",
+      "status": true,
+      "id": 2
+    },
+    {
+      "fname": "Santa",
+      "lname": "Clause",
+      "email": "pixel000@gmail.com",
+      "companyName": "Chirstmas",
+      "phoneNumber": "1212200212",
+      "status": true,
+      "id": 3
+    },
+    {
+      "fname": "sanjay",
+      "lname": "sanju",
+      "email": "pixel000@gmail.com",
+      "companyName": "ZoHO",
+      "phoneNumber": "34567898765",
+      "status": true,
+      "id": 8
+    },
+    {
+      "fname": "Babu",
+      "lname": "s",
+      "email": "babubabu@gmail.com",
+      "companyName": "ZoHo",
+      "phoneNumber": "6370703300",
+      "status": true,
+      "id": 10
+    },
+    {
+      "fname": "Cartoon",
+      "lname": "R",
+      "email": "create23@gmail.com",
+      "companyName": "GenPixels",
+      "phoneNumber": "6370703302",
+      "status": true,
+      "id": 11
+    }
+  ]
+}
